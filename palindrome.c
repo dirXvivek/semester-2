@@ -17,6 +17,6 @@ void main()
         printf("Palindrome");
     else
         printf("!Palindrome");
-    
+
     getch();
 }
