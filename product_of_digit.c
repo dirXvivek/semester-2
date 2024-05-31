@@ -14,6 +14,6 @@ void main()
         n = n / 10; // remove the digit from back one by one
     }
     printf("The product of the given number are %d", p);
-    
+
     getch();
 }
